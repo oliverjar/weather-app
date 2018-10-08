@@ -1,2 +1,2 @@
 # weather-app
-Simple weather app built using node and express
+Simple weather application built using node and express
